@@ -1,0 +1,195 @@
+1598573507603	geckodriver	INFO	Listening on 127.0.0.1:53795
+1598573510721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rajyam\\AppData\\Local\\Temp\\rust_mozprofilexXt328"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598573528802	Marionette	INFO	Listening on port 53818
+1598573529305	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598573534723	Marionette	INFO	Stopped listening on port 53818
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598573583673	geckodriver	INFO	Listening on 127.0.0.1:53956
+1598573587020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rajyam\\AppData\\Local\\Temp\\rust_mozprofiledV1rSf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598573595911	Marionette	INFO	Listening on port 53985
+1598573596019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598573600573	Marionette	INFO	Stopped listening on port 53985
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+[Parent 5844, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_wJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598573611471	Marionette	INFO	Listening on port 54068
+1598573611950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598573617651	Marionette	INFO	Stopped listening on port 54068
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598574328714	geckodriver	INFO	Listening on 127.0.0.1:54653
+1598574331814	mozrunner::runner	INFO	Running command: "C:\\P1598574333386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\JavaScript error: resource://gre/modules/XULStore.jsm, line JavaScript error: resource://gre/modules/Xconsole.error: SearchCache: "_readCacheFile: Error reading cconsole.error: SearchCache: "_readCacheFile: Erro1598574340305	Marionette	INFO	Listening on port 54676
+1598574340792	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598574347614	Marionette	INFO	Stopped listening on port 54671598574348712	Marionette	INFO	Stopped listening on port 54688
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x800700JavaScript error: resource://gre/modules/UrlClassifierListMaJavaScript error: resource://gre/modules/UrlClassifierListManager.jsmconsole.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: unconsole.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: SearchEngineSelector: (new Error("IndexedDB: main/search-config list() IndexedDB:  execute() The application is shutting down",console.error: (new Error("Sesconsole.error: (new Error("SessionFile is closed", "resource:///modules/sessionsconsole.log: "RemoteSettingsWo[Parent 15568, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+dexedDB: main/search-config list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 24))
+console.error: SearchEngineSelector: "Received empty search configuration!"
+console.error: SearchService: "_init: failure initializing search:" (void 0)
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/SearchService.jsm, line 474: NS_ERROR_FAILURE: SearchService previously failed to initialize
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uconsole.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."n
+caught exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsmconsole.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+undIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598574528499	geckodriver	INFO	Listening on 127.0.0.1:54987
+1598574531604	mozrunner::runner	INFO	Running command: "C:\\P1598574533516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\JavaScript error: resource://gre/modules/XULStore.jsm, line JavaScript error: resource://gre/modules/Xconsole.error: SearchCache: "_readCacheFile: Error reading cconsole.error: SearchCache: "_readCacheFile: Erro1598574540515	Marionette	INFO	Listening on port 55009
+159851598574541564	Marionette	INFO	Listening on port 55021
+1598574542614	Marionette	WA1598574547739	Marionette	INFO	Stopped listening on port 55001598574554424	Marionette	INFO	Stopped listening on port 55021
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsmconsole.warn: SearchService: "_init: abandoning init due to console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: ca
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+geChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598574615816	geckodriver	INFO	Listening on 127.0.0.1:55254
+1598574618902	mozrunner::runner	INFO	Running command: "C:\\P1598574619434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown modulconsole.error: SearchCache: "_readCacheFile: Error reading cconsole.error: SearchCache: "_readCacheFile: Erro1598574626733	Marionette	INFO	Listening on port 55278
+1598574626839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598574634023	Marionette	INFO	Stopped listening on port 55278
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetconsole.error: SearchEngineSelector: (new AbortError("IndexedDB: main/search-config list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 24))
+console.error: SearchEngineSelector: "Received empty search configuration!"
+console.error: SearchService: "_init: failure initializing search:" (void 0)
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/SearchService.jsm, line 474: NS_ERROR_FAILURE: SearchService previously failed to initialize
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+t exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ill be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598574775330	geckodriver	INFO	Listening on 127.0.0.1:55494
+1598574778424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rajyam\\AppData\\Local\\Temp\\rust_mozprofileLCCUpy"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598574782245	Marionette	INFO	Listening on port 55503
+1598574782581	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598574788729	Marionette	INFO	Stopped listening on port 55503
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598574833456	geckodriver	INFO	Listening on 127.0.0.1:55596
+1598574836559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rajyam\\AppData\\Local\\Temp\\rust_mozprofile72INy2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598574840328	Marionette	INFO	Listening on port 55605
+1598574840828	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598574846071	Marionette	INFO	Stopped listening on port 55605
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598574919475	geckodriver	INFO	Listening on 127.0.0.1:55709
+1598574922589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rajyam\\AppData\\Local\\Temp\\rust_mozprofile3o7LC4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598574926074	Marionette	INFO	Listening on port 55718
+1598574926274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598574931910	Marionette	INFO	Stopped listening on port 55718
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599112579909	geckodriver	INFO	Listening on 127.0.0.1:64560
+1599112582973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Rajyam\\AppData\\Local\\Temp\\rust_mozprofileg4mB6u"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599112600112	Marionette	INFO	Listening on port 64569
+1599112600478	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599112605305	Marionette	INFO	Stopped listening on port 64569
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

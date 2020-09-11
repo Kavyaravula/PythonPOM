@@ -1,0 +1,8 @@
+[0827/172344.986:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0827/203428.744:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0827/203428.848:ERROR:exception_snapshot_win.cc(99)] thread ID 4736 not found in process
+[0827/203428.860:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Rajyam\AppData\Local\Temp\scoped_dir15408_772311089\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0827/203428.860:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Rajyam\AppData\Local\Temp\scoped_dir15408_772311089\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0827/203428.884:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Rajyam\AppData\Local\Temp\scoped_dir15408_772311089\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0827/203428.888:ERROR:file_io_win.cc(170)] CreateFile C:\Users\Rajyam\AppData\Local\Temp\scoped_dir15408_772311089\Crashpad\reports\7eb156c7-2818-4b3c-9aad-9c35f77c6ac5.dmp: The system cannot find the path specified. (0x3)
+[0827/203428.888:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
